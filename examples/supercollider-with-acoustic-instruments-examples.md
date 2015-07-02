@@ -22,7 +22,7 @@ Composers are listed alphabetically by last name.
 
 
 ####Bo is burning
-**Music theatre based on contemporary clock dancing, live electronics, and live coding**
+**Music theatre based on contemporary clog dance, live electronics, and live coding**
 
 A duo by [Sarah Jeffery](http://www.sarahjeffery.com) and [Felipe Ignacio Noriega](http://felipeignacio.info). Evolved from their roots in traditional English folk culture, the clogs not only become a percussive instrument, but a means for creating music-theatre and movement. Coupled with innovative wireless technology hidden on the performer's bodies, the electronics fully integrate with movement.
 
